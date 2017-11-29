@@ -1,8 +1,8 @@
 # Transfer Team
 Husky ADAPT VIP
-<img src="https://drive.google.com/open?id=0Bx3n03-Pr6W8TUlUMW1GYlBjQ2NNcHhmUmVwX0t2X296UkI0" width="170">
 
-# Mission
+
+# Project
 
 
 Husky ADAPT repo: please add your team description here!
@@ -14,5 +14,5 @@ you can change what's on the website by either changing the markdown file on mas
 
 ## Screenshots
 
-## Authors
+## Team Member
 Hyeongju (John) Choi, Ritika Gupta, Jasmine Hawkins, Sharon Heung, YoonBo Shim
