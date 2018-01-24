@@ -3,13 +3,13 @@
 
 # Project
 
+When Carolee sits down, she “drops” or “falls into place, which can be uncomfortable and dangerous. As we conducted research, we quickly realized that most transfer devices require arm strength. Such tools are not suitable for people with a wide variety of abilities, including Carolee. 
 
-Husky ADAPT repo: please add your team description here!
+Our design challenge is to create a tool to support safer transfers that reduces reliance on expensive devices and family support. In other words, Carolee needs to safely transfer from standing to sitting because she wants to feel independent and empowered.
 
+After conversing with Carolee and her husband Tom, we decided to center our design ideas around safety, comfort, independence, and ease of use. Considering the budget of our project, we will also think about affordability, as we hope to make our product accessible to as many users as possible. 
 
-Project Pages site HuskyADAPT.github.io/GroupName	
-you can change what's on the website by either changing the markdown file on master or a /docs folder on master
-
+Currently, our most promising design ideas involve a gas spring and harness mechanism, an electric linear actuator, and a resistance band. All of these will potentially support the weight of Carolee to smoothly transition her from standing to sitting. Come visit our poster to learn more!
 
 # Photos
  
